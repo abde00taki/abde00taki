@@ -32,9 +32,9 @@
 ---
 
 ### 📫 How to reach me:
-📧 *takiabderrahmane@gmail.com*  
+📧 *abderrahmanetaki604@gmail.com*  
 🌍 From Azilal, Morocco  
-💼 Working on becoming a Full-Stack Developer & Cybersecurity Specialist
+💼 Working on becoming a Full-Stack Developer 
 
 ---
 
