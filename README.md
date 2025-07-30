@@ -1,43 +1,51 @@
-<h1 align="center">Hi there 👋, I'm Abderrahmane</h1>
-<p align="center">A self-taught web developer passionate about building clean, responsive, and powerful web applications.</p>
+# Abderrahmane Taki
+
+<p align="center">
+  <em>Web Developer | Code Crafter | Learning Every Day</em><br>
+  <strong><em>Build smart. Code clean. Stay curious.</em></strong>
+</p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎯 I love building clean, responsive, and powerful web apps  
-🧠 Currently learning **React.js** and diving deeper into the backend world  
-🎓 Self-taught developer passionate about **clean code & design**  
-📍 Based in **Azilal, Morocco**  
-💼 On a mission to become a **Full-Stack Developer**
+Hello! I'm **Abderrahmane**, a self-taught web developer from **Azilal, Morocco**.  
+I enjoy creating responsive, user-focused web applications with a strong emphasis on clean code and simplicity.  
+Currently deepening my knowledge in **React.js** and backend development to become a well-rounded full-stack developer.
 
 ---
 
-### 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-**Front-End**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**Back-End**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-
-**Database**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mysql,git,github,vscode&theme=light" alt="Tech Stack" />
+</p>
 
 ---
 
-### 📬 Get in Touch
+## 📊 GitHub Stats
 
-- 📧 **abderrahmanetaki604@gmail.com**  
-- 🌍 **Azilal, Morocco**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbderrahmaneTaki&show_icons=true&hide_border=true&theme=tokyonight&custom_title=GitHub+Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrahmaneTaki&layout=compact&hide_border=true&theme=tokyonight" height="170" />
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:abderrahmanetaki604@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/AbderrahmaneTaki">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <em>"Write code that makes sense — to both humans and machines."</em><br>
+  <strong>— Abderrahmane</strong>
 </p>
