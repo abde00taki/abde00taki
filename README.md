@@ -9,9 +9,10 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Abderrahmane**, a self-taught web developer from **Azilal, Morocco**.  
-I enjoy creating responsive, user-focused web applications with a strong emphasis on clean code and simplicity.  
-Currently deepening my knowledge in **React.js** and backend development to become a well-rounded full-stack developer.
+Hello! I'm **Abderrahmane**, a web developer from **Azilal, Morocco**.  
+I build responsive, user-focused web applications with a strong focus on clean code and simplicity.  
+My programming journey began and evolved through the **Azicode62 digital school**, where I developed a solid foundation in both front-end and back-end technologies.  
+Currently enhancing my skills in **React.js** and back-end development to grow as a full-stack developer.
 
 ---
 
