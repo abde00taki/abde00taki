@@ -26,8 +26,8 @@ Currently deepening my knowledge in **React.js** and backend development to beco
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbderrahmaneTaki&show_icons=true&hide_border=true&theme=tokyonight&custom_title=GitHub+Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrahmaneTaki&layout=compact&hide_border=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abde00taki&show_icons=true&hide_border=true&theme=tokyonight&custom_title=GitHub+Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abde00taki&layout=compact&hide_border=true&theme=tokyonight" height="170" />
 </p>
 
 ---
@@ -38,7 +38,7 @@ Currently deepening my knowledge in **React.js** and backend development to beco
   <a href="mailto:abderrahmanetaki604@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/AbderrahmaneTaki">
+  <a href="https://github.com/abde00taki">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
